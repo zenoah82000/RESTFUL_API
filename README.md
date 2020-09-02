@@ -11,7 +11,7 @@ RESTFUL_API 範例練習
 2. 安裝輸入:nvm i v12.18.3
 3. 執行使用該版本:nvm use 12.18.3
 4. 全域安裝json-server: npm i -g json-server(如已安裝過可跳過)
-5. 以json-server開啟json檔案:json-server --watch ./data/data.json
+5. 以json-server開啟json檔案:json-server --watch ./data/data.json --port3001
 6. 開始操作
 
 
